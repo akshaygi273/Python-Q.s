@@ -1,0 +1,15 @@
+Modules/libraries required-
+
+pandas
+datetime
+requests
+sqlite3
+
+
+use cases in programmes-
+import pandas as pd
+from datetime import datetime
+from datetime import date
+import requests
+import sqlite3
+from sqlite3 import Error
